@@ -1,4 +1,4 @@
-# Based on the Stephen Grider tutorial on Undemy
+# Based on the Stephen Grider tutorial on Udemy
 
 # A YouTube browser written in React
 Uses the YouTube Data API v3 you can get your own key [here](https://console.developers.google.com)
